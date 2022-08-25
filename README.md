@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=tnfpi5K0rGI
 
 # Conclusión 
 
-* Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso correcto los conocimientos para la resolucion de circuitos con bases solidad en la solucion de sistemas ecuaciones que brindan ayuda en los cálculos de voltajes, corrientes y resistencias, además gracias al conocimiento de campo magnetico antes adquiridos se pudo analizar la densidad de flujo.
+* Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso correcto los conocimientos para la resolucion de circuitos con bases solidad en la solucion de sistemas ecuaciones que brindan ayuda en los cálculos de voltajes, corrientes y resistencias, además gracias al calculko de impedancias se puede analizar circuitos de corriente alterna.
 * La revisión de material didáctico aporto en gran cantidad con la información requerida para el aprendizaje y sirvió como método de guía al tema.
 * La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas, para aplicar de manera adecuada en los teoremas aprendidos en estos capítulos.
 
